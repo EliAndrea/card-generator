@@ -1,7 +1,7 @@
 # Card Generator
 
 ## Descripción
-Generador aleatorio de cartas (Tarea día 7 PM)
+Generador aleatorio de cartas. Realizado con HTML, CSS y JavaScript. (Tarea día 7 PM)
 
 ## Vista Previa
 
